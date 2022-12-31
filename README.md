@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swayblend
 - 👀 I’m interested in web3 development
 - 🌱 I’m currently learning Solidity and React
-- 💞️ I’m looking to collaborate on crypto projects
+- 💞️ I’m looking to collaborate on decentalized applications for the web
 - 📫 andrewlucero411@gmail.com
 
 <!---
